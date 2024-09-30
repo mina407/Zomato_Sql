@@ -6,12 +6,12 @@ This Project demonstrates my Sql problem_solving Skills through the analysis of 
 
 ## Project Structure
 
-![](https://github.com/mina407/Zomato_Sql/blob/main/ERD.png)
-
 * Database Setup: Creation of the `Zomato_db` database and required tables .
 * Data Import: Inserting sample data into the tables .
 * Data Cleaning Handl Null Values and ensuring data integrity .
 * Business Problem: Solving 20 Specific business problem using sql queries .
+  
+![](https://github.com/mina407/Zomato_Sql/blob/main/ERD.png)
 
   ## Database Setup
   ```sql
