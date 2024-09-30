@@ -363,6 +363,6 @@ where extract(year from order_date) = 2023
 group by 1
 ```
 ## Technology Stack
-Database: PostgreSQL
-SQL Queries: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
-Tools: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
+* Database: PostgreSQL
+* SQL Queries: DDL, DML, Aggregations, Joins, Subqueries, Window Functions
+* Tools: pgAdmin 4 (or any SQL editor), PostgreSQL (via Homebrew, Docker, or direct installation)
