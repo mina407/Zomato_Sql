@@ -2,7 +2,7 @@
 
 ## Overview
 This Project demonstrates my Sql problem_solving Skills through the analysis of data for zomato a popular food delivery company in india the project involves setting up the database , impoting data handling null values and solving variety of business problem using complex Sql Query .
-![]()
+![](https://github.com/mina407/Zomato_Sql/blob/main/Zomato.jpeg)
 ## Project Structure
 * Database Setup: Creation of the `Zomato_db` database and required tables .
 * Data Import: Inserting sample data into the tables .
